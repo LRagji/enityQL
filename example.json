@@ -1,0 +1,20 @@
+{
+    "attributes": [
+        {
+            "name": "xyz",
+            "aggregateOperator": "count|Max|Min"
+        }
+    ],
+    "creteria": {
+        "attribute": "XYZ",
+        "operator": "equal|notequal|lt|gt|in",
+        "value": "",
+        "and": {},
+        "or": {}
+    },
+    "categorize": [
+        {
+            "name": "xyz"
+        }
+    ]
+}

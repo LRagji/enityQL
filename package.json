@@ -1,0 +1,26 @@
+{
+  "name": "entityql",
+  "version": "0.0.1",
+  "description": "This is a simplistic REST-Entity query language used for searching entities from a REST-ful microservice.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LRagji/entityQL.git"
+  },
+  "keywords": [
+    "entityQL",
+    "Query",
+    "Language",
+    "REST",
+    "service"
+  ],
+  "author": "Laukik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LRagji/entityQL/issues"
+  },
+  "homepage": "https://github.com/LRagji/entityQL#readme"
+}
